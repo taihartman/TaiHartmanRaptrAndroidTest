@@ -65,6 +65,7 @@ public class AnimationActivity extends AppCompatActivity implements View.OnTouch
         assert actionBar != null;
         actionBar.setDisplayHomeAsUpEnabled(true);
         actionBar.setDisplayShowHomeEnabled(true);
+        setTitle(R.string.animation_title);
         // TODO: Make the UI look like it does in the mock-up. Allow for horizontal screen rotation.
         // TODO: Add a ripple effect when the buttons are clicked
 

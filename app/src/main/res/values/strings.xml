@@ -8,5 +8,6 @@
     <string name="login_button">LOGIN</string>
     <string name="login_title">Login</string>
     <string name="animation_button">ANIMATION</string>
+    <string name="animation_title">Animation</string>
 
 </resources>
