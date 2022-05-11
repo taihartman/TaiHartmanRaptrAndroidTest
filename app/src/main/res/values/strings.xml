@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+
+    <!-- Main Screen Strings -->
+    <string name="activity_main_title">Coding Tasks</string>
+    <string name="chat_button">CHAT</string>
+    <string name="chat_title">Chat</string>
+    <string name="login_button">LOGIN</string>
+    <string name="login_title">Login</string>
+    <string name="animation_button">ANIMATION</string>
+
+</resources>
